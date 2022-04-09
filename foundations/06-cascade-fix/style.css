@@ -40,3 +40,12 @@ div.text {
 .para.small-para {
   font-size: 14px;
 }
+
+#confirm-button {
+  background-color: rgb(25, 170, 25);
+}
+
+.text .text.child {
+  color:red;
+  font-size: 10px;
+}
