@@ -32,3 +32,11 @@ div.text {
   color: green;
   font-size: 22px;
 }
+
+.para {
+  font-size: 30px;
+}
+
+.para.small-para {
+  font-size: 14px;
+}
